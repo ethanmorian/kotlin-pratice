@@ -83,11 +83,3 @@ Skin lesion classification of dermoscopic images using machine learning and conv
 - The results show that the customized CNN has obtained an accuracy of 95.18%, which is better than the proposed machine learning algorithms.
 
 https://www.nature.com/articles/s41598-022-22644-9#Tab7
-
-
-
-E pluribus unum interpretable convolutional neural networks
-
-14 July 2023
-
-- 

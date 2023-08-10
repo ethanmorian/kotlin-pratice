@@ -1,5 +1,8 @@
-# test
- 
-test|test|test|test
-----|----|----|----
-test|test|test|[naver](https://www.naver.com)
+# Diagnosis of Pet Dermatological Issues 
+
+## Preprocessing
+
+
+## Modeling
+
+
